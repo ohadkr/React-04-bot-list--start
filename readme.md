@@ -1,6 +1,5 @@
 <!-- prettier-ignore-start -->
 
-Copyright © Written by [Yariv Gilad](https://yarivgilad.com) 
 <hr>
    
 ## Show me that list!!
@@ -24,7 +23,7 @@ Copyright © Written by [Yariv Gilad](https://yarivgilad.com)
 --"-"-------
 ```
 Good luck!!
-[Yariv](https://www.linkedin.com/in/yarivgilad/) 
+[Yariv]
 
 💡 "Luck is the residue of good design" - Branch Rickey
 
